@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ALC 4.0 Phase 1 Challenge</string>
+    <string name="about_ALC_button">About ALC</string>
+    <string name="my_profile_button">My Profile</string>
+    <string name="profile_name">Osondu Tochukwu Andrew</string>
+    <string name="track_name">Android Track</string>
+    <string name="country_name">Nigeria</string>
+    <string name="email_address">tboy44wiz@gmail.com</string>
+    <string name="phone_number">08036802243</string>
+    <string name="slack_id">@tMan44wiz</string>
+</resources>
